@@ -1,0 +1,6 @@
+1) The project has begun [2024-12-29]
+	I have started to make the interpreter, it
+	has not been tested yet, so I don't know if
+	this initial piece of code even works.
+	I have started the lexing phase, the easy
+	part.
